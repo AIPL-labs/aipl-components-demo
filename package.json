@@ -1,0 +1,25 @@
+{
+  "name": "aipl-components-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "start": "vite --strictPort --force --port 7199"
+  },
+  "keywords": [],
+  "author": "Matt Taylor @mjtdev",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/react": "^18.3.4",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2"
+  },
+  "dependencies": {
+    "aipl-components": "https://github.com/matthewjosephtaylor/aipl-components",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@emotion/react": "^11.13.3"
+  }
+}
