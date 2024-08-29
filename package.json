@@ -18,7 +18,6 @@
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
-    "@mjtdev/engine": "https://github.com/matthewjosephtaylor/mjtdev-engine",
     "aipl-components": "https://github.com/AIPL-labs/aipl-components",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
